@@ -1,5 +1,5 @@
 const config = {
-  title: "Hiep Dam Hai | Full-Stack Developer",
+  title: "Dam Hai Hiep | Full-Stack Developer",
   description: {
     long: "Explore the portfolio of Hiep, a full-stack developer and creative technologist specializing in interactive web experiences, 3D animations, and innovative projects. Discover my latest work, including Coding Ducks, The Booking Desk, Ghostchat, and more. Let's build something amazing together!",
     short:
